@@ -1,0 +1,19 @@
+patients
+{
+  "name": "Samridhi",
+  "wallet": 0
+}
+
+Doctor
+{
+  "name": "Dr. AP singhal",
+  "specialization": "Orthologist",
+  "fee": 700
+}
+appointment
+{
+  "doctor": "",
+  "patient": "",
+  "date": "2024-12-30T10:00:00Z"
+}
+
